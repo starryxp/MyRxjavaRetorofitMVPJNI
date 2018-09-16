@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyRxjavaRetorofitMVPJNI</string>
+    <string name="resmsg_success">成功</string>
+    <string name="resmsg_net_error">网络错误</string>
+    <string name="resmsg_default_error">网络或服务器连接异常，请稍候再试。</string>
+    <string name="resmsg_json_error">数据解析错误</string>
+    <string name="resmsg_decryption_error">解密错误</string>
+    <string name="resmsg_encryption_error">加密错误</string>
+    <string name="resmsg_param_error">参数为空</string>
+</resources>
